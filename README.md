@@ -1,11 +1,6 @@
 # 👋 Hi there! I'm Muzammifahmi
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building robust applications and websites that solve real-world problems.
-
-## 🔍 About Me
-- 🎯 **Interests**: I'm deeply interested in **application development** and **website development**. I love turning ideas into reality through code.
-- 🌱 **Currently Learning**: I'm expanding my knowledge in the **C++ programming language** to enhance my software development skills.
-- 💻 **Skills**: C++, HTML, CSS, JavaScript, Python (Feel free to add or modify your skills here)
 ## 🎓 Education
 - **Bachelor's Degree in Informatics Engineering Education**  
   **Universitas Negeri Malang** | 2023 - Expected Graduation: 2027  
