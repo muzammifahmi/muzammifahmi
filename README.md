@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building rob
   **MA Al Maarif Singosari** | Graduated: 2022  
  ## 📫 How to Reach Me
 - 📧 Email: muzammifahmi1@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/achmad-muzammi-fahmi-09800a297.
+- 💼 LinkedIn: [Achmad Muzammi Fahmi](www.linkedin.com/in/achmad-muzammi-fahmi-09800a297)
 
 Feel free to explore my repositories to see more of my work!
 
