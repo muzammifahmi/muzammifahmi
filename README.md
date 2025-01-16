@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building rob
 - **Bachelor's Degree in Informatics Engineering Education**  
   **Universitas Negeri Malang**  
 - **High School Diploma in Science**  
-  **MA Al Maarif Singosari** | Graduated: 2022  
+  **MA Al Maarif Singosari**   
  ## 📫 How to Reach Me
 - 📧 Email: muzammifahmi1@gmail.com
 - 💼 LinkedIn: [Achmad Muzammi Fahmi](www.linkedin.com/in/achmad-muzammi-fahmi-09800a297)
