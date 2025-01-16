@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer focused on building robust applications and websites that solve real-world problems.
 ## 🎓 Education
 - **Bachelor's Degree in Informatics Engineering Education**  
-  **Universitas Negeri Malang** | 2023 - Expected Graduation: 2027  
+  **Universitas Negeri Malang**  
 - **High School Diploma in Science**  
   **MA Al Maarif Singosari** | Graduated: 2022  
  ## 📫 How to Reach Me
