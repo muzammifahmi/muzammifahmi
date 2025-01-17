@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Muzammifahmi
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building robust applications and websites that solve real-world problems.
+Welcome to my GitHub profile!
 
 ## 🎓 Education
 - **Bachelor's Degree in Informatics Engineering Education**  
