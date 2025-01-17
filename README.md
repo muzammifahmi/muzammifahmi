@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Muzammifahmi
 
 Welcome to my GitHub profile!
+<br>
+[![visitor](https://visitor-badge.laobi.icu/badge?page_id=muzammifahmi)](https://github.com/muzammifahmi)
 
 ## 🎓 Education
 - **Bachelor's Degree in Informatics Engineering Education**  
@@ -9,15 +11,8 @@ Welcome to my GitHub profile!
   **MA Al Maarif Singosari**   
 
 ## 🚀 Languages & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,java,php,mysql,javascript,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,java,php,mysql,javascript,vscode,github&theme=dark)](https://skillicons.dev)
 
-<!--
-### Alternative Text-Based Format
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
-- **Backend:** Node.js, Express, GraphQL, RESTful APIs
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools & Others:** Git, GitHub, Vercel, Postman, VS Code, PyCharm
--->
 
 ## 📫 How to Reach Me
 - 📧 Email: muzammifahmi1@gmail.com
