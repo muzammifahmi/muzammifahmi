@@ -7,10 +7,8 @@ Welcome to my GitHub profile!
 
 
 ## 🎓 Education
-- **Bachelor's Degree in Informatics Engineering Education**  
-  **Universitas Negeri Malang**  
-- **High School Diploma in Science**  
-  **MA Al Maarif Singosari**   
+- **Universitas Negeri Malang**  
+- **MA Al Maarif Singosari**   
 
 ## 🚀 Languages & Technologies  
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,java,php,mysql,javascript,vscode,github&theme=dark)](https://skillicons.dev)
