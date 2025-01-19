@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<svg viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
     <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#4facfe; stop-opacity:1" />
@@ -7,16 +7,16 @@
   </defs>
   <path fill="url(#waveGradient)" opacity="0.7">
     <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
-      M0,50 Q150,60 300,50 T600,50 T900,50 T1200,50 V100 H0 Z;
-      M0,50 Q150,40 300,50 T600,50 T900,50 T1200,50 V100 H0 Z;
-      M0,50 Q150,60 300,50 T600,50 T900,50 T1200,50 V100 H0 Z
+      M0,25 Q150,30 300,25 T600,25 T900,25 T1200,25 V50 H0 Z;
+      M0,25 Q150,20 300,25 T600,25 T900,25 T1200,25 V50 H0 Z;
+      M0,25 Q150,30 300,25 T600,25 T900,25 T1200,25 V50 H0 Z
     " />
   </path>
   <path fill="url(#waveGradient)" opacity="0.5">
     <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
-      M0,55 Q200,45 400,55 T800,55 T1200,55 V100 H0 Z;
-      M0,55 Q200,65 400,55 T800,55 T1200,55 V100 H0 Z;
-      M0,55 Q200,45 400,55 T800,55 T1200,55 V100 H0 Z
+      M0,28 Q200,22 400,28 T800,28 T1200,28 V50 H0 Z;
+      M0,28 Q200,32 400,28 T800,28 T1200,28 V50 H0 Z;
+      M0,28 Q200,22 400,28 T800,28 T1200,28 V50 H0 Z
     " />
   </path>
 </svg>
