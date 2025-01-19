@@ -20,6 +20,9 @@ Welcome to my GitHub profile!
 
 Feel free to explore my repositories to see more of my work!
 
+![](wave.svg)
+
+
 <!---
 muzammifahmi/muzammifahmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
