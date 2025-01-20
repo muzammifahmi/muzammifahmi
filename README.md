@@ -19,8 +19,9 @@ Welcome to my GitHub profile!
 - 💼 LinkedIn: [Achmad Muzammi Fahmi](https://www.linkedin.com/in/achmad-muzammi-fahmi-09800a297)
 
 Feel free to explore my repositories to see more of my work!
-
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!---
 muzammifahmi/muzammifahmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
