@@ -18,7 +18,8 @@ Welcome to my GitHub profile!
 - 📧 Email: muzammifahmi1@gmail.com
 - 💼 LinkedIn: [Achmad Muzammi Fahmi](https://www.linkedin.com/in/achmad-muzammi-fahmi-09800a297)
 
-Feel free to explore my repositories to see more of my work!
+## Motto
+- إذا مات ابنُ آدمَ انقطع عملُه إلا من ثلاثٍ: صدقةٍ جاريةٍ ، أو علمٍ يُنتفَعُ به، أو ولدٌ صالحٌ يدعو له
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
