@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - **MA Al Maarif Singosari**   
 
 ## 🚀 Languages & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,java,php,mysql,javascript,vscode,python,tensorflow,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,cpp,java,php,mysql,javascript,vscode,python,tensorflow,github&theme=dark)](https://skillicons.dev)
 
 
 ## 📫 How to Reach Me
