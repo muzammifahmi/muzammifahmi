@@ -18,6 +18,22 @@ Welcome to my GitHub profile!
 - 📧 Email: muzammifahmi1@gmail.com
 - 💼 LinkedIn: [Achmad Muzammi Fahmi](https://www.linkedin.com/in/achmad-muzammi-fahmi-09800a297)
 
+## 💼 Projects
+
+<details>
+  <summary><b>📚 E-Library — Digital Library Management System</b></summary>
+  <br>
+  <img src="assets/images/e-library.png" alt="E-Library">  
+  The E-Library is a web-based library management system designed to streamline book data management and improve accessibility for both librarians and users.
+
+
+  **🛠️ Technologies Used:**  
+  `Laravel` `MySql` `Tailwind`  
+
+  🔗 **Repo:**  
+  https://github.com/muzammifahmi/E-LIBRARY.git
+</details>
+
 ## Motto
 - إذا مات ابنُ آدمَ انقطع عملُه إلا من ثلاثٍ: صدقةٍ جاريةٍ ، أو علمٍ يُنتفَعُ به، أو ولدٌ صالحٌ يدعو له
 <p align="center">
