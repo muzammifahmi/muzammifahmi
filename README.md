@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 <details>
   <summary><b>📚 E-Library — Digital Library Management System</b></summary>
   <br>
-  <img src="assets/images/e-library.png" alt="E-Library">  
+  <img src="assets/images/e-library.png" alt="E-Library" width="400"><br>  
   The E-Library is a web-based library management system designed to streamline book data management and improve accessibility for both librarians and users.
 
 
