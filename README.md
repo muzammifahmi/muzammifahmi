@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile!
 <br>
-[![visitor](https://visitor-badge.laobi.icu/badge?page_id=muzammifahmi)](https://github.com/muzammifahmi)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammifahmi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=muzammifahmi&langs_count=3&theme=tokyonight)
 
 
 ## 🎓 Education
