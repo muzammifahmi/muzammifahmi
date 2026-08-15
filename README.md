@@ -35,7 +35,11 @@ Welcome to my GitHub profile!
 </details>
 
 ## Motto
-- إذا مات ابنُ آدمَ انقطع عملُه إلا من ثلاثٍ: صدقةٍ جاريةٍ ، أو علمٍ يُنتفَعُ به، أو ولدٌ صالحٌ يدعو له
+<div align="center" dir="rtl">
+  <h2 style="font-family: 'Arabic Typesetting', 'Traditional Arabic', serif; font-weight: normal; font-size: 40px; color: #2c3e50;">
+    يَرْفَعِ اللّٰهُ الَّذِيْنَ اٰمَنُوْا مِنْكُمْۙ وَالَّذِيْنَ اُوْتُوا الْعِلْمَ دَرَجٰتٍۗ
+  </h2>
+</div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
